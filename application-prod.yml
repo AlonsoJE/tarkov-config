@@ -9,4 +9,4 @@ spring:
             - '*'
 tarkov-service:
   tarkov: "production"
-  default-value: "EFT"
+  default-value: "Dota 2"
