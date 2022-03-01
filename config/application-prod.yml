@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: tarkov-service
+  management:
+    endpoints:
+      web:
+        exposure:
+          include:
+            - '*'
+tarkov-service:
+  tarkov: "production"
+  default-value: "EFT"
